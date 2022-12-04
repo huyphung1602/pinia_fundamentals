@@ -1,6 +1,8 @@
 # todo-app
 
-This is an todo application I built when learning pinia fundamental.
+This is a todo-app I built when learning pinia fundamentals.
+
+![Uploading image.png…]()
 
 ## Recommended IDE Setup
 
