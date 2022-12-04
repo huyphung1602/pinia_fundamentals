@@ -2,7 +2,7 @@
 
 This is a todo-app I built when learning pinia fundamentals.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/22078891/205507135-f89f7580-6555-4a34-a78b-c1a2255df9c1.png)
 
 ## Recommended IDE Setup
 
